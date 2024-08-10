@@ -16,7 +16,7 @@ HTML/CSS
 Backend & Database:
 Firebase (Authentication, Firestore)
 Clone the repository:
-git clone https://github.com/yassinealaya/social-media-app.git
+git clone https://github.com/YassineAlaya/answer-power-ai
 
 
 Install dependencies:
